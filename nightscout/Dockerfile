@@ -63,11 +63,11 @@ LABEL \
     io.hass.arch="${BUILD_ARCH}" \
     io.hass.type="addon" \
     io.hass.version=${BUILD_VERSION} \
-    maintainer="Marcio Granzotto <oscensores@gmail.com>" \
+    maintainer="Kreativitat <mail@kreativitat.com>" \
     org.opencontainers.image.title="Nightscout" \
     org.opencontainers.image.description="Nightscout acts as a web-based CGM (Continuous Glucose Montinor) to allow multiple caregivers to remotely view a patients glucose data in realtime." \
-    org.opencontainers.image.vendor="Marcio Granzotto" \
-    org.opencontainers.image.authors="Marcio Granzotto <oscensores@gmail.com>" \
+    org.opencontainers.image.vendor="Kreativitat" \
+    org.opencontainers.image.authors="Kreativitat <mail@kreativitat.com>" \
     org.opencontainers.image.licenses="GNUv3" \
     org.opencontainers.image.source="https://github.com/kreativitat/addon-nightscout" \
     org.opencontainers.image.documentation="https://github.com/kreativitat/addon-nightscout/blob/master/README.md" \

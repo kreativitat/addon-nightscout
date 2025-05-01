@@ -62,7 +62,7 @@ Thank you for being involved! :heart_eyes:
 
 ## Authors & contributors
 
-The original setup of this repository is by [Marcio Granzotto][kreativitat].
+The original setup of this repository is by [Kreativitat][kreativitat].
 
 For a full list of all authors and contributors,
 check [the contributor's page][contributors].
