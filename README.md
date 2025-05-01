@@ -45,7 +45,7 @@ comparison to installing any other Home Assistant add-on.
 first time starting the add-on).
 
 **NOTE**: Do not add this repository to Home Assistant, please use:
-`https://github.com/marciogranzotto/addons-repository`.
+`https://github.com/kreativitat/addons-repository`.
 
 ## Support
 
@@ -62,7 +62,7 @@ Thank you for being involved! :heart_eyes:
 
 ## Authors & contributors
 
-The original setup of this repository is by [Marcio Granzotto][marciogranzotto].
+The original setup of this repository is by [Marcio Granzotto][kreativitat].
 
 For a full list of all authors and contributors,
 check [the contributor's page][contributors].
@@ -72,57 +72,35 @@ check [the contributor's page][contributors].
 GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
 
- Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
+Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
 
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-
 [anchore-shield]: https://anchore.io/service/badges/image/67d1185473090e99d5ac5e1bb4d1aa2295117a9bd3d7abbf8cd8a71e331c8388
-
-[anchore]: https://anchore.io/image/dockerhub/marciogranzotto%2Funifi%3Alatest
-
+[anchore]: https://anchore.io/image/dockerhub/kreativitat%2Funifi%3Alatest
 [armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-
 [armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-
 [i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-
 [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
 
 <!-- markdown-link-check-disable-next-line -->
+
 [buymeacoffee]: https://www.buymeacoffee.com/automarcio
-
-[commits-shield]: https://img.shields.io/github/commit-activity/y/marciogranzotto/addon-nightscout.svg
-
-[commits]: https://github.com/marciogranzotto/addon-nightscout/commits/master
-
-[contributors]: https://github.com/marciogranzotto/addon-nightscout/graphs/contributors
-
-[dockerhub]: https://hub.docker.com/r/marciogranzotto/nightscout
-
+[commits-shield]: https://img.shields.io/github/commit-activity/y/kreativitat/addon-nightscout.svg
+[commits]: https://github.com/kreativitat/addon-nightscout/commits/master
+[contributors]: https://github.com/kreativitat/addon-nightscout/graphs/contributors
+[dockerhub]: https://hub.docker.com/r/kreativitat/nightscout
 [home-assistant]: https://home-assistant.io
-
-[issue]: https://github.com/marciogranzotto/addon-nightscout/issues
-
+[issue]: https://github.com/kreativitat/addon-nightscout/issues
 [keepchangelog]: http://keepachangelog.com/en/1.0.0/
-
-[license-shield]: https://img.shields.io/github/license/marciogranzotto/addon-nightscout.svg
-
+[license-shield]: https://img.shields.io/github/license/kreativitat/addon-nightscout.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
-
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-
-[releases-shield]: https://img.shields.io/github/release/marciogranzotto/addon-nightscout.svg
-
-[releases]: https://github.com/marciogranzotto/addon-nightscout/releases
-
-[repository]: https://github.com/marciogranzotto/addons-repository
-
+[releases-shield]: https://img.shields.io/github/release/kreativitat/addon-nightscout.svg
+[releases]: https://github.com/kreativitat/addon-nightscout/releases
+[repository]: https://github.com/kreativitat/addons-repository
 [cgm-remote-monitor]: https://github.com/nightscout/cgm-remote-monitor
-
-[marciogranzotto]: https://github.com/marciogranzotto
-
+[kreativitat]: https://github.com/kreativitat
 [docs]: nightscout/DOCS.md

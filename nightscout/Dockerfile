@@ -10,7 +10,7 @@ COPY . /opt
 WORKDIR /opt/app
 
 ARG BUILD_ARCH=amd64
-ARG NIGHTSCOUT_VERSION=14.2.6
+ARG NIGHTSCOUT_VERSION=15.0.2
 # hadolint ignore=DL3008
 RUN \
     URL="http://archive.ubuntu.com/ubuntu/" \
@@ -69,8 +69,8 @@ LABEL \
     org.opencontainers.image.vendor="Marcio Granzotto" \
     org.opencontainers.image.authors="Marcio Granzotto <oscensores@gmail.com>" \
     org.opencontainers.image.licenses="GNUv3" \
-    org.opencontainers.image.source="https://github.com/marciogranzotto/addon-nightscout" \
-    org.opencontainers.image.documentation="https://github.com/marciogranzotto/addon-nightscout/blob/master/README.md" \
+    org.opencontainers.image.source="https://github.com/kreativitat/addon-nightscout" \
+    org.opencontainers.image.documentation="https://github.com/kreativitat/addon-nightscout/blob/master/README.md" \
     org.opencontainers.image.created=${BUILD_DATE} \
     org.opencontainers.image.revision=${BUILD_REF} \
     org.opencontainers.image.version=${BUILD_VERSION}
